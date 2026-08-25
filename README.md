@@ -2,11 +2,11 @@
 
 ![Sketch-note formula](covers/sketchnote-formula.png)
 
-[![Apify](https://img.shields.io/badge/Apify-Standby_API-1f8f4d)](https://apify.com/george.the.developer/ats-hire-trigger-intent-scraper) [![Pricing](https://img.shields.io/badge/Pricing-Pay_per_result-blue)](#pricing) [![Built for](https://img.shields.io/badge/Built_for-B2B_SaaS_SDR_teams-orange)](#use-cases)
+[![Apify](https://img.shields.io/badge/Apify-Standby_API-1f8f4d)](https://apify.com/george.the.developer/ats-hire-trigger-intent-scraper?fpr=bbquoh) [![Pricing](https://img.shields.io/badge/Pricing-Pay_per_result-blue)](#pricing) [![Built for](https://img.shields.io/badge/Built_for-B2B_SaaS_SDR_teams-orange)](#use-cases)
 
 Pull jobs from Greenhouse, Lever, Ashby, and SmartRecruiters in one API. Intent-enriched with tech-keyword extraction, hiring-surge detection, and first-in-function flags. Built for SDR teams running buying-intent outreach. Pay per result, no seat license.
 
-Live at: https://apify.com/george.the.developer/ats-hire-trigger-intent-scraper
+Live at: https://apify.com/george.the.developer/ats-hire-trigger-intent-scraper?fpr=bbquoh
 
 ## Why this exists
 
